@@ -30,3 +30,7 @@ I’m a Computer Science student and Software Development Intern at Aritwise Sol
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/kartik-tamhan  
 - Email: kartiktamhan968@gmail.com  
+
+## 📊 GitHub Stats
+
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Creates&show_icons=true&theme=tokyonight)
