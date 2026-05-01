@@ -33,4 +33,4 @@ I’m a Computer Science student and Software Development Intern at Aritwise Sol
 
 ## 📊 GitHub Stats
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Creates&show_icons=true&theme=tokyonight)
+![Kartik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kartik-Creates&show_icons=true&theme=tokyonight)
