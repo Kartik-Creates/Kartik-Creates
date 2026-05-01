@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Kartik 👋
 
-<!--
-**Kartik-Creates/Kartik-Creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student and Software Development Intern at Aritwise Solutions, focused on building scalable backend systems and applied machine learning solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- Content Moderation System (ML + LLM + Rule Engine)
+- Backend systems using FastAPI and MongoDB
+- Improving system performance using caching and optimization
+
+---
+
+## 🧠 Skills
+- **Languages:** Python, C, JavaScript  
+- **Backend:** FastAPI, Flask  
+- **ML:** Scikit-learn, Data Analysis  
+- **Databases:** MongoDB, SQLite  
+- **Tools:** Git, GitHub  
+
+---
+
+## 🔥 Featured Work
+- AI Content Moderation System  
+- JalRakshak (Water Contamination Prediction)  
+- Sales Insights System  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/kartik-tamhan  
+- Email: kartiktamhan968@gmail.com  
